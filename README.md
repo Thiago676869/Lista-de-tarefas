@@ -1,2 +1,2 @@
 # Lista-de-tarefas
-Lista de tarefas de fácil utilização
+Uma aplicação de lista de tarefas. Aplicação simples, usual e de fácil compreensão ao usuário, onde se pode criar uma lista de tarefas adicionando itens(botão cadastrar) ou remove-los(clicando em cima do item), onde também mostra uma mensagem de erro quando adicionado um item sem informação(vazio). Todos os itens da lista são armazenados no próprio navegador, permitindo então, até mesmo desligar o computador que os dados permaneceram armazenados da mesma forma para quando usuário novamente precisar utiliza-lo.
